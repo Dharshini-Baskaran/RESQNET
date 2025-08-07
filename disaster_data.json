@@ -1,0 +1,37 @@
+[
+  {
+    "Region": "Chennai",
+    "Disaster_Type": "Flood",
+    "People_Affected": 8000,
+    "Disaster_Duration_Days": 7,
+    "Severity": "Moderate"
+  },
+  {
+    "Region": "Uttarakhand",
+    "Disaster_Type": "Landslide",
+    "People_Affected": 12000,
+    "Disaster_Duration_Days": 5,
+    "Severity": "Moderate"
+  },
+  {
+    "Region": "Assam",
+    "Disaster_Type": "Flood",
+    "People_Affected": 15000,
+    "Disaster_Duration_Days": 10,
+    "Severity": "High"
+  },
+  {
+    "Region": "Kerala",
+    "Disaster_Type": "Cyclone",
+    "People_Affected": 9000,
+    "Disaster_Duration_Days": 6,
+    "Severity": "Moderate"
+  },
+  {
+    "Region": "Bihar",
+    "Disaster_Type": "Flood",
+    "People_Affected": 11000,
+    "Disaster_Duration_Days": 8,
+    "Severity": "High"
+  }
+]

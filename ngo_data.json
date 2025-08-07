@@ -1,0 +1,86 @@
+[
+  {
+    "NGO_Name": "Relief Aid India",
+    "Supported_Regions": ["Chennai", "Kerala"],
+    "Resources": {
+      "Food_Packets": 1000,
+      "Water_Litres": 60000,
+      "Tents": 600,
+      "Medical_Teams": 3,
+      "Hygiene_Kits": 800
+    },
+    "Volunteers_Available": 120
+  },
+  {
+    "NGO_Name": "Helping Hands Trust",
+    "Supported_Regions": ["Bihar", "Uttarakhand"],
+    "Resources": {
+      "Food_Packets": 1200,
+      "Water_Litres": 75000,
+      "Tents": 700,
+      "Medical_Teams": 2,
+      "Hygiene_Kits": 900
+    },
+    "Volunteers_Available": 150
+  },
+  {
+    "NGO_Name": "Hope Foundation",
+    "Supported_Regions": ["Assam", "Bihar", "Kerala"],
+    "Resources": {
+      "Food_Packets": 1400,
+      "Water_Litres": 80000,
+      "Tents": 800,
+      "Medical_Teams": 4,
+      "Hygiene_Kits": 1000
+    },
+    "Volunteers_Available": 180
+  },
+  {
+    "NGO_Name": "Rapid Relief Network",
+    "Supported_Regions": ["Chennai", "Assam"],
+    "Resources": {
+      "Food_Packets": 900,
+      "Water_Litres": 50000,
+      "Tents": 500,
+      "Medical_Teams": 2,
+      "Hygiene_Kits": 700
+    },
+    "Volunteers_Available": 100
+  },
+  {
+    "NGO_Name": "Care for All",
+    "Supported_Regions": ["Uttarakhand", "Assam"],
+    "Resources": {
+      "Food_Packets": 1300,
+      "Water_Litres": 70000,
+      "Tents": 750,
+      "Medical_Teams": 3,
+      "Hygiene_Kits": 950
+    },
+    "Volunteers_Available": 160
+  },
+  {
+    "NGO_Name": "Aid for Tomorrow",
+    "Supported_Regions": ["Kerala", "Bihar"],
+    "Resources": {
+      "Food_Packets": 1150,
+      "Water_Litres": 72000,
+      "Tents": 720,
+      "Medical_Teams": 3,
+      "Hygiene_Kits": 850
+    },
+    "Volunteers_Available": 140
+  },
+{
+  "NGO_Name": "Global Aid Initiative",
+  "Supported_Regions": ["Kerala", "Uttarakhand"],
+  "Resources": {
+    "Food_Packets": 1100,
+    "Water_Litres": 65000,
+    "Tents": 650,
+    "Medical_Teams": 3,
+    "Hygiene_Kits": 850
+  },
+  "Volunteers_Available": 130
+}
+]
